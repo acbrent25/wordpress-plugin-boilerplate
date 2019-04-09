@@ -13,6 +13,6 @@ Auther URI: https://adamchampagne.com/
  }
 
  // Load Scripts
- require_once(plugin_dir_path(__FILE__) . '/includes/social-links-scripts.php');
+ require_once(plugin_dir_path(__FILE__) . '/includes/plugin-name-scripts.php');
 
 
